@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(221, 250, 255);
+}
+form{
+    margin: 0 auto;
+    background-color: aquamarine;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    gap:20px;
+}
